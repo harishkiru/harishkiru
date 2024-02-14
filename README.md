@@ -2,7 +2,6 @@
   <img src="https://github.com/harishkiru/harishkiru/assets/91213465/988cf202-787b-4eda-80d0-1105cae37864" alt="Image">
 </p>
 
-![chrome_8Zgjg9BNt4]()
 
 ## ⭐ About Me ⭐
 ```go
