@@ -1,6 +1,9 @@
-![chrome_dhsY8TMGlL](https://github.com/harishkiru/harishkiru/assets/91213465/5f8f77cf-699c-4862-bfed-ca717fa2b261)
+<p align="center">
+  <img src="https://github.com/harishkiru/harishkiru/assets/91213465/5f8f77cf-699c-4862-bfed-ca717fa2b261" alt="Image">
+</p>
 
-## About Me:
+
+## ⭐ About Me ⭐
 ```go
 const harishKirubaharan = {
   pronouns: ["he", "him"],
