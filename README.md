@@ -1,7 +1,7 @@
 # Hi there, I'm Harish! 👋
 
 ## About Me:
-```JSON
+```Perl
 const harishKirubaharan = {
   pronouns: ["he", "him"],
   code: ["C", "C++", "Java/Groovy", "JavaScript", "TypeScript", "Assembly", "Dart", "Python", "SQL", "Go"],
@@ -26,7 +26,7 @@ const harishKirubaharan = {
     teachingAssistant: {
       role: "Teaching Assistant",
       university: "Ontario Tech University",
-      description: "Aided professors and students, graded work, proctored exams, and led labs to enhance student understanding in practical and theoretical skills."
+      description: "Aided professors and students, graded work, proctored exams, and led labs to enhance student understanding of practical and theoretical skills."
     }
   },
   projects: [
