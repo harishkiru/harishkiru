@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://github.com/harishkiru/harishkiru/assets/91213465/5f8f77cf-699c-4862-bfed-ca717fa2b261" alt="Image">
+  <img src="https://github.com/harishkiru/harishkiru/assets/91213465/988cf202-787b-4eda-80d0-1105cae37864" alt="Image">
 </p>
 
+![chrome_8Zgjg9BNt4]()
 
 ## ⭐ About Me ⭐
 ```go
