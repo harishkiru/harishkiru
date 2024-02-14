@@ -1,7 +1,7 @@
 # Hi there, I'm Harish! 👋
 
 ## About Me:
-```Perl
+```go
 const harishKirubaharan = {
   pronouns: ["he", "him"],
   code: ["C", "C++", "Java/Groovy", "JavaScript", "TypeScript", "Assembly", "Dart", "Python", "SQL", "Go"],
