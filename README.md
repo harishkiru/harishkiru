@@ -1,4 +1,4 @@
-# Hi there, I'm Harish! 👋
+![chrome_dhsY8TMGlL](https://github.com/harishkiru/harishkiru/assets/91213465/5f8f77cf-699c-4862-bfed-ca717fa2b261)
 
 ## About Me:
 ```go
