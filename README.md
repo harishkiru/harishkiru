@@ -7,7 +7,7 @@
 ```go
 const harishKirubaharan = {
   pronouns: ["he", "him"],
-  code: ["C", "C++", "Java/Groovy", "JavaScript", "TypeScript", "Assembly", "Dart", "Python", "SQL", "Go"],
+  code: ["C", "C++", "Java/Groovy", "JavaScript", "HTML/CSS", "TypeScript", "Assembly", "Dart", "Python", "SQL", "Go"],
   tools: ["Flutter", "React", "REST API", "Flask", "GlassFish", "Firebase", "Shell scripting"],
   university: "Ontario Tech University",
   degree: "B.Sc. in Computer Science (Hons.)",
