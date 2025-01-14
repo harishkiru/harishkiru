@@ -38,10 +38,6 @@ const harishKirubaharan = {
       description: "A Flutter mobile app integrating Firebase, SQL and APIs from LastFM and Spotify."
     },
     {
-      name: "Rock Paper Scissors",
-      description: "An interactive multiplayer game with JavaScript, Java, RESTful APIs, and WebSocket technology."
-    },
-    {
       name: "Chat Room Server",
       description: "A real-time chat server application using Java, RESTful API and WebSocket."
     },
